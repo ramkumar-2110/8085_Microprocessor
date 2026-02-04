@@ -1,6 +1,6 @@
-##8085 Microprocessor
+## 8085 Microprocessor
 
-#features
+# features
     *it is a 8 bit basic Microprocessor.
     *it have von Neumann architecture.
     *it have 16 address lines and 8 data lines in a multiplexed form.
